@@ -7,8 +7,10 @@ namespace BasicPrograms
         {
             //FlipCoin flipCoin = new FlipCoin();
             //flipCoin.Play();
-            LeapYear leapYear = new LeapYear();
-            leapYear. CheckLeapYear();
+            //LeapYear leapYear = new LeapYear();
+            //leapYear. CheckLeapYear();
+            LargestOfThree largestOfThree = new LargestOfThree();
+            largestOfThree.FindLarge();
         }
     }
 }
