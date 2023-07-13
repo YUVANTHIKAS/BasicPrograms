@@ -5,8 +5,10 @@ namespace BasicPrograms
     {
         static void Main(string[] args)
         {
-            FlipCoin flipCoin = new FlipCoin();
-            flipCoin.Play();
+            //FlipCoin flipCoin = new FlipCoin();
+            //flipCoin.Play();
+            LeapYear leapYear = new LeapYear();
+            leapYear. CheckLeapYear();
         }
     }
 }
